@@ -29,13 +29,13 @@ pip install customtkinter
 ### Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone git@github.com:itallo2701/debt-manager.git
 ```
 
 ### Navegue até o diretório do projeto:
 
 ```bash
-cd seu-repositorio
+cd debt-manager
 ```
 ### Execute o aplicativo:
 
@@ -59,3 +59,7 @@ Sinta-se à vontade para contribuir com o projeto! Basta seguir os passos abaixo
 - Faça o commit das suas alterações: git commit -m 'Minha nova feature'
 - Faça o push para a branch: git push origin minha-feature
 - Abra uma Pull Request.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
